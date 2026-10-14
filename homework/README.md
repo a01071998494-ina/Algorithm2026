@@ -11,3 +11,11 @@
 [bubbleSorting](bubbleSorting.pde)
 
 ![스크린샷2](homework2.png)
+
+## Homework3
+[Array](Array.pde)
+https://youtu.be/2FDLhdIqWgI
+
+## Homework4
+[SortAnimation](SortAnimation.pde)
+https://youtu.be/J4LPWF09E74
